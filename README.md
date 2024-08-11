@@ -96,6 +96,7 @@
 
 ## 🖥️ Manutenção de PC
 - **Verificação de RAM:** Execute `mdsched.exe`
+- **Codigo de ativação Windows:** Execute no cmd `irm https://massgrave.dev/get | iex`
 
 ---
 
