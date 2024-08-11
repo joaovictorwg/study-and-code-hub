@@ -1,5 +1,3 @@
----
-
 # 📋 Recursos e Ferramentas para Desenvolvedores
 
 ## 🔎 Para Encontrar Vagas
@@ -134,6 +132,3 @@
   - Explique em termos simples.
   - Identifique as lacunas.
   - Revise e simplifique até que a explicação esteja clara.
-
----
-
