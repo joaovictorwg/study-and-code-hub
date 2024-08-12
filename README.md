@@ -54,6 +54,7 @@
 
 ## 🕵️‍♂️ Cybersegurança/Hacking
 - [Hack The Box](https://www.hackthebox.com)
+- [OWASP](https://owasp.org)
 
 ---
 
